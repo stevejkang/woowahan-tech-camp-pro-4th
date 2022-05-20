@@ -1,0 +1,4 @@
+[submodule "java-lotto-pro"]
+	path = java-lotto-pro
+	url = https://github.com/stevejkang/java-lotto-pro
+	branch = stevejkang
