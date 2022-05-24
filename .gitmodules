@@ -2,3 +2,7 @@
 	path = java-lotto-pro
 	url = https://github.com/stevejkang/java-lotto-pro
 	branch = stevejkang
+[submodule "jwp-qna"]
+	path = jwp-qna
+	url = https://github.com/stevejkang/jwp-qna
+	branch = stevejkang
