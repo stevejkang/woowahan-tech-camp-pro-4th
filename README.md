@@ -8,3 +8,7 @@
   - [Step3 - 로또(자동)](https://github.com/next-step/java-lotto-pro/pull/481) — [Diff](https://github.com/stevejkang/java-lotto-pro/compare/step2...step3)
   - [Step4 - 로또(2등)](https://github.com/next-step/java-lotto-pro/pull/543) — [Diff](https://github.com/stevejkang/java-lotto-pro/compare/step3...step4)
   - [Step5 - 로또(수동)](https://github.com/next-step/java-lotto-pro/pull/577) — [Diff](https://github.com/stevejkang/java-lotto-pro/compare/step4...step5)
+- jwp-qna [Submission Repository](https://github.com/stevejkang/jwp-qna), [PRs](https://github.com/next-step/jwp-qna/pulls?q=is%3Apr+author%3Astevejkang)
+  - [Step1 - 엔티티 매핑](https://github.com/next-step/jwp-qna/pull/350) — [Diff](https://github.com/stevejkang/jwp-qna/compare/main...step1)
+  - [Step2 - 연관 관계 매핑](https://github.com/next-step/jwp-qna/pull/412) — [Diff](https://github.com/stevejkang/jwp-qna/compare/step1...step2)
+  - [Step3 - 질문 삭제하기 리팩터링](https://github.com/next-step/jwp-qna/pull/481) — [Diff](https://github.com/stevejkang/jwp-qna/compare/step2...step3)
