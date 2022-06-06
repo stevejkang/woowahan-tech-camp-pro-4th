@@ -12,3 +12,7 @@
   - [Step1 - 엔티티 매핑](https://github.com/next-step/jwp-qna/pull/394) — [Diff](https://github.com/stevejkang/jwp-qna/compare/main...step1)
   - [Step2 - 연관 관계 매핑](https://github.com/next-step/jwp-qna/pull/437) — [Diff](https://github.com/stevejkang/jwp-qna/compare/step1...step2)
   - [Step3 - 질문 삭제하기 리팩터링](https://github.com/next-step/jwp-qna/pull/461) — [Diff](https://github.com/stevejkang/jwp-qna/compare/step2...step3)
+- infra-subway-deploy [Submission Repository](https://github.com/stevejkang/infra-subway-deploy), [PRs](https://github.com/next-step/infra-subway-deploy/pulls?q=is%3Apr+author%3Astevejkang)
+  - [Step1 - 엔티티 매핑](https://github.com/next-step/infra-subway-deploy/pull/457) — [Diff](https://github.com/stevejkang/infra-subway-deploy/compare/main...step1)
+  - [Step2 - 연관 관계 매핑](https://github.com/next-step/infra-subway-deploy/pull/468) — [Diff](https://github.com/stevejkang/infra-subway-deploy/compare/step1...step2)
+  - [Step3 - 질문 삭제하기 리팩터링](https://github.com/next-step/infra-subway-deploy/pull/506) — [Diff](https://github.com/stevejkang/infra-subway-deploy/compare/step2...step3)
