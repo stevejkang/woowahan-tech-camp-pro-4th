@@ -6,3 +6,7 @@
 	path = jwp-qna
 	url = https://github.com/stevejkang/jwp-qna
 	branch = stevejkang
+[submodule "infra-subway-deploy"]
+	path = infra-subway-deploy
+	url = https://github.com/stevejkang/infra-subway-deploy
+	branch = stevejkang
